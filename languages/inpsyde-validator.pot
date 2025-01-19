@@ -1,5 +1,5 @@
 # Inpsyde Validator
-# (c) 2016 Inpsyde GmbH
+# (c) 2016 Syde GmbH
 # This file is distributed under the same license as the Inpsyde Validator package.
 #, fuzzy
 msgid ""

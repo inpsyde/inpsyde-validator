@@ -31,7 +31,7 @@ This package provides a collection of validators for WordPress.
 	* [Upgrading from version 1.0](#upgrading-from-version-10)
 * [Other notes](#other-notes)
 	* [Bugs, technical hints or contribute](#bugs-technical-hints-or-contribute) 
-    * [License](#license)
+    * [Copyright and License](#copyright-and-license)
     * [Changelog](#changelog)
 	
   
@@ -702,9 +702,9 @@ For reasons above starting from version **2.0**:
 
 Please give us feedback, contribute and file technical bugs on [GitHub Repo](https://github.com/inpsyde/Inpsyde-Validator).
 
-### License
+### Copyright and License
 
-Good news, this plugin is free for everyone! Since it's released under the [MIT](https://github.com/inpsyde/Inpsyde-Validator/blob/master/LICENSE), you can use it free of charge on your personal or commercial blog.
+This package is [free software](https://www.gnu.org/philosophy/free-sw.en.html) distributed under the terms of the GNU General Public License version 2 or (at your option) any later version. For the full license, see [LICENSE](./LICENSE).
 
 ### Changelog
 

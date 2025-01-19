@@ -14,7 +14,6 @@ use Inpsyde\Validator\ValidatorInterface;
  * @author  Christian Brückner <chris@chrico.info>
  * @author  Giuseppe Mazzapica <giuseppe.mazzapica@gmail.com>
  * @package inpsyde-validator
- * @license http://opensource.org/licenses/MIT MIT
  */
 class ValidatorFactoryTest extends AbstractTestCase {
 
