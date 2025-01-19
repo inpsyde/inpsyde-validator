@@ -1,12 +1,4 @@
 <?php # -*- coding: utf-8 -*-
-/*
- * This file is part of the inpsyde-validator package.
- *
- * (c) Inpsyde GmbH
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- */
 
 namespace Inpsyde\Validator\Tests\Unit\Error;
 
@@ -15,7 +7,6 @@ use PHPUnit\Framework\TestCase;
 
 /**
  * @author  Giuseppe Mazzapica <giuseppe.mazzapica@gmail.com>
- * @license http://opensource.org/licenses/MIT MIT
  * @package inpsyde-validator
  */
 class ErrorLoggerTest extends TestCase {
